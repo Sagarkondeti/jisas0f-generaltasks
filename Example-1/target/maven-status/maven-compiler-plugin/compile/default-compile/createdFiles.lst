@@ -1,0 +1,5 @@
+com\example\demo\DTO\Stacktrace.class
+com\example\demo\DTO\Workflow.class
+com\example\demo\controller\JsonController.class
+com\example\demo\DTO\Flows.class
+com\example\demo\Example1Application.class
